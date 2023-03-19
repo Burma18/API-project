@@ -1,0 +1,14 @@
+#bookGallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.bookItem {
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    box-shadow: 3px 3px 3px black;
+}
